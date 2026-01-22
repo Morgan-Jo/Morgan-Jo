@@ -76,5 +76,6 @@ I am motivated to growth as data analyst by undertking **IBM SkillsBuild – Dat
 
 - GitHub: https://github.com/Morgan-Jo  
 - LinkedIn: https://www.linkedin.com/in/morgan-j-tonner
+- Tableau: https://public.tableau.com/app/profile/morgan.tonner/vizzes
 
 ---
