@@ -16,6 +16,7 @@ As a dyslexic professional, I bring strong self-awareness, resilience, and creat
 **Data Analytics Certifiate**
 - IBM SkillsBuild - Data Analytics
 - Tata Group - Data Visualisation Empowering Business with Effective Insights
+
 **Portfolio Porject**
 - Developing Exploratory Data Analysis (EDA) using Python, R and SQL
 - Developing End-to-End Data Analysis using Python, R, SQL, and Excel
