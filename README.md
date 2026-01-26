@@ -46,7 +46,7 @@ As a dyslexic professional, I bring strong self-awareness, resilience, and creat
 **Tools and Environment**
 - Git, GitHub, JIRA
 - VS Code, Jupyter Nootbook
-- MS Office (Excel, PowerPoint, Work, Outlook)
+- Microsoft Office (Excel, PowerPoint, Work, Outlook)
 - GenAI and LLMs (ChatGPT, Google Gemini)
 - Agile and Scrum delivery environment
 
