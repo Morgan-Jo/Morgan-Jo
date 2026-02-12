@@ -54,11 +54,11 @@ As a dyslexic professional, I bring strong self-awareness, resilience, and creat
 
 ## 🚀 Domains That Inspire Me
 I’m most excited by industries where data directly shapes real-world outcomes and innovation. My main focus areas are:
+- Sport
+- Travel
 - Aviation
 - Airlines
 - Aerospace
-- Travel
-- Sport
 - Artificial Intelligence (AI)
 - Gaming
 - Finance/Fintech
