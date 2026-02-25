@@ -37,7 +37,7 @@ As a dyslexic professional, I bring strong self-awareness, resilience, and creat
 - Python, SQL, R, Excel
 
 **Business Intelligence**
-- Tableau, Power BI
+- Tableau, Power BI, Looker
 
 **Data Engineering and Workflow**
 - ETL concepts, Spark (PySpark)
