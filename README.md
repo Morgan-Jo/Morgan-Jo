@@ -66,7 +66,8 @@ I’m most excited by industries where data directly shapes real-world outcomes 
 ---
 
 ## ⚡ Fun facts
-- I love crime and medical dramas  
+- I love crime and medical dramas
+- I am a mass fan of TV Quiz/Game Shows 
 - I listen to a lot of music by Scottish artists, especially The Proclaimers
 - I love travel by the train/plane across the UK/EU/International
 
