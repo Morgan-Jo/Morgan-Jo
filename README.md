@@ -2,9 +2,11 @@
 ---
 
 ## 🌟 About Me
-I am a motivated data analyst and data scientist with three years’ experience delivering trusted insights using SQL, Python, Excel, Tableau, and Power BI. I work closely with Product, Engineering, and Operations teams to turn messy data and vague questions into clear metrics, reliable dashboards, and actionable analysis.
+I am a motivated data and performance analyst with three years’ experience in the private sector delivering trusted insights using SQL, Python, Excel, Tableau, and Power BI. I work closely with Product, Engineering, and Operations teams to turn messy data and vague questions into clear metrics, reliable dashboards, and actionable analysis.
+I have recently started working in the public sector to deliver analysis and insight using my private sector experience for public good. Working with team looking at finance and grant award data. 
 I build validation checks, investigate anomalies, and document definitions to strengthen data quality and ensure insights can be trusted. I hold a degree in Mathematics and Statistics, which underpins my analytical approach and structured problem solving.
 As a dyslexic professional, I bring strong self-awareness, resilience, and creative thinking to how I work. Alongside my technical skills, I am developing my GenAI knowledge using ChatGPT, Google Gemini, and Copilot, and I am currently completing the **IBM SkillsBuild - Data Analytics Certificate** with the University of the People to continue growing as an analyst.
+
 ### 🎯 Key strengths:
 - Problem solving and presentation
 - Data visualisation, dashboarding, and insight storytelling for decision-makers
@@ -45,7 +47,7 @@ As a dyslexic professional, I bring strong self-awareness, resilience, and creat
 
 **Tools and Environment**
 - Git, GitHub, JIRA
-- VS Code, Jupyter Nootbook
+- VS Code, Jupyter Nootbook, MySQL Workbrench
 - Microsoft Office (Excel, PowerPoint, Work, Outlook)
 - GenAI and LLMs (ChatGPT, Google Gemini)
 - Agile and Scrum delivery environment
